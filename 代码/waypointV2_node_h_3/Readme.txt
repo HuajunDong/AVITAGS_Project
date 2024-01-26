@@ -1,0 +1,1 @@
+Already achieved for given input points manually, go to the shortest path.
